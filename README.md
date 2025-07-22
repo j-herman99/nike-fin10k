@@ -1,5 +1,12 @@
 # 📊 Nike Financial Analysis – FY22 to FY24
 
+![Built With: Excel](https://img.shields.io/badge/Built%20With-Excel-blue)
+![Status: Complete](https://img.shields.io/badge/Status-Complete-brightgreen)
+![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue)
+![Analysis Type: Vertical · Horizontal · Ratio](https://img.shields.io/badge/Analysis-Vertical%20·%20Horizontal%20·%20Ratio-purple)
+![Source: SEC 10-K Filings](https://img.shields.io/badge/Source-SEC%2010--K%20Filings-lightgrey)
+![Scope: FY22–FY24](https://img.shields.io/badge/Scope-FY22–FY24-informational)
+
 _A vertical, horizontal, and ratio-based analysis of Nike Inc.’s financial performance, grounded in SEC 10-K filings and best practices in financial modeling._
 
 ---
