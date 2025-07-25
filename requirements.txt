@@ -1,0 +1,10 @@
+# Required for visualizations
+matplotlib
+seaborn
+
+# Required for Excel operations (if automating via Python)
+openpyxl
+pandas
+
+# Optional (used for enhanced presentation formatting or automation)
+xlsxwriter
